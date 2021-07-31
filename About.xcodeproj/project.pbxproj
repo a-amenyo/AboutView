@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5C211E5C26B4F562009CA73F /* Terms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C211E5B26B4F562009CA73F /* Terms.swift */; };
+		5C211E6026B4FD45009CA73F /* Detail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C211E5F26B4FD45009CA73F /* Detail.swift */; };
 		5C6234C726B4D8E1007D7BC0 /* AboutApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C6234C626B4D8E1007D7BC0 /* AboutApp.swift */; };
 		5C6234C926B4D8E1007D7BC0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C6234C826B4D8E1007D7BC0 /* ContentView.swift */; };
 		5C6234CB26B4D8E2007D7BC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C6234CA26B4D8E2007D7BC0 /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5C211E5B26B4F562009CA73F /* Terms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Terms.swift; sourceTree = "<group>"; };
+		5C211E5F26B4FD45009CA73F /* Detail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Detail.swift; sourceTree = "<group>"; };
 		5C6234C326B4D8E1007D7BC0 /* About.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = About.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C6234C626B4D8E1007D7BC0 /* AboutApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutApp.swift; sourceTree = "<group>"; };
 		5C6234C826B4D8E1007D7BC0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +61,8 @@
 				5C6234CA26B4D8E2007D7BC0 /* Assets.xcassets */,
 				5C6234CF26B4D8E2007D7BC0 /* Info.plist */,
 				5C6234CC26B4D8E2007D7BC0 /* Preview Content */,
+				5C211E5B26B4F562009CA73F /* Terms.swift */,
+				5C211E5F26B4FD45009CA73F /* Detail.swift */,
 			);
 			path = About;
 			sourceTree = "<group>";
@@ -140,6 +146,8 @@
 			files = (
 				5C6234C926B4D8E1007D7BC0 /* ContentView.swift in Sources */,
 				5C6234C726B4D8E1007D7BC0 /* AboutApp.swift in Sources */,
+				5C211E6026B4FD45009CA73F /* Detail.swift in Sources */,
+				5C211E5C26B4F562009CA73F /* Terms.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
