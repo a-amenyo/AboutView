@@ -14,6 +14,8 @@ struct AboutApp: App {
 //            ContentView()
 //            Terms ()
 //            Detail()
+//            Help()
+            Help_Topics()
         }
     }
 }
