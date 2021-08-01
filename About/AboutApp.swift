@@ -15,7 +15,11 @@ struct AboutApp: App {
 //            Terms ()
 //            Detail()
 //            Help()
-            Help_Topics()
+//            Help_Topics()
+//            Disclosure()
+//            Help_Support()
+//            SearchResults()
+            TopicNotFOund()
         }
     }
 }
